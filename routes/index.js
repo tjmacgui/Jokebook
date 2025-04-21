@@ -1,0 +1,1 @@
+exports.jokebook=require("./jokebook");
